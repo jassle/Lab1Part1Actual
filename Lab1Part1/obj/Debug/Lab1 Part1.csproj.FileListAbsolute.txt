@@ -1,0 +1,21 @@
+C:\Users\Jason Leonard\Documents\Prework\GC Labs\Lab1 Part1\Lab1 Part1\bin\Debug\Lab1 Part1.exe.config
+C:\Users\Jason Leonard\Documents\Prework\GC Labs\Lab1 Part1\Lab1 Part1\bin\Debug\Lab1 Part1.exe
+C:\Users\Jason Leonard\Documents\Prework\GC Labs\Lab1 Part1\Lab1 Part1\bin\Debug\Lab1 Part1.pdb
+C:\Users\Jason Leonard\Documents\Prework\GC Labs\Lab1 Part1\Lab1 Part1\obj\Debug\Lab1 Part1.csprojResolveAssemblyReference.cache
+C:\Users\Jason Leonard\Documents\Prework\GC Labs\Lab1 Part1\Lab1 Part1\obj\Debug\Lab1 Part1.csproj.CoreCompileInputs.cache
+C:\Users\Jason Leonard\Documents\Prework\GC Labs\Lab1 Part1\Lab1 Part1\obj\Debug\Lab1 Part1.exe
+C:\Users\Jason Leonard\Documents\Prework\GC Labs\Lab1 Part1\Lab1 Part1\obj\Debug\Lab1 Part1.pdb
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1 Part1\Lab1 Part1\obj\Debug\Lab1 Part1.csprojResolveAssemblyReference.cache
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1 Part1\Lab1 Part1\obj\Debug\Lab1 Part1.csproj.CoreCompileInputs.cache
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1 Part1\Lab1 Part1\obj\Debug\Lab1 Part1.exe
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1 Part1\Lab1 Part1\obj\Debug\Lab1 Part1.pdb
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1 Part1\Lab1 Part1\bin\Debug\Lab1 Part1.exe.config
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1 Part1\Lab1 Part1\bin\Debug\Lab1 Part1.exe
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1 Part1\Lab1 Part1\bin\Debug\Lab1 Part1.pdb
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1Part1\Lab1 Part1\bin\Debug\Lab1 Part1.exe.config
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1Part1\Lab1 Part1\bin\Debug\Lab1 Part1.exe
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1Part1\Lab1 Part1\bin\Debug\Lab1 Part1.pdb
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1Part1\Lab1 Part1\obj\Debug\Lab1 Part1.csprojResolveAssemblyReference.cache
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1Part1\Lab1 Part1\obj\Debug\Lab1 Part1.csproj.CoreCompileInputs.cache
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1Part1\Lab1 Part1\obj\Debug\Lab1 Part1.exe
+C:\Users\Jason Leonard\Documents\Prework\GCLabs\Lab1Part1\Lab1 Part1\obj\Debug\Lab1 Part1.pdb
